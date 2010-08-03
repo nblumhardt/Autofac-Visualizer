@@ -1,4 +1,4 @@
-using AutofacVisualizer.Data;
+using AutofacVisualizer.Data.Interfaces;
 using Microsoft.VisualStudio.DebuggerVisualizers;
 
 namespace AutofacVisualizer.VS2008 {
